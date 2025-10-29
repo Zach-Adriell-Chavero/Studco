@@ -1,4 +1,4 @@
-# Study Hub for Scholars
+# Studco
 
 ## Description
 Scholars struggle with studying, so my project proposal is aimed to create easily accessable notes for everyone to use.

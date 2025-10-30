@@ -33,7 +33,7 @@ My projects have a lot of planned features.
 1. Create a note, set the settings, and start notetaking. The output would be a formatted text.
 2. Create account with a username and password, and store it in the server.
 
-## Flowchart
+## <p align="center">Flowchart</p>
 Here is a flowchart with the planned flow:
-![alt text](https://raw.githubusercontent.com/Zach-Adriell-Chavero/Study-Hub-for-Scholars/refs/heads/assets/flowchart_documentary.png)
-This can change at any time, it is only a raw/vague example of the process flow.
+![alt text](Flowchart.png)
+<br>This can change at any time, it is only a raw/vague example of the process flow.
